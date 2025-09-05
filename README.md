@@ -79,7 +79,6 @@ My focus is on building **intelligent systems** and exploring how AI can transfo
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hirudika4&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hirudika4&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
