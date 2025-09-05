@@ -70,9 +70,6 @@ My focus is on building **intelligent systems** and exploring how AI can transfo
 </a>
 </p>
 
-
-
-
 ---
 
 
