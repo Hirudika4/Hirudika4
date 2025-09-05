@@ -5,8 +5,7 @@
 ---
 
 ### 🌟 About Me  
-I’m an **Electrical Engineering undergraduate** passionate about **Artificial Intelligence, Machine Learning, and Large Language Models (LLMs)**.  
-My focus is on building **intelligent systems** and exploring how AI can transform real-world industries through automation, innovation, and research.  
+I’m an **Electrical Engineering undergraduate** passionate about **Artificial Intelligence, Machine Learning, and Large Language Models (LLMs)**. My focus is on building **intelligent systems** and exploring how AI can transform real-world industries through automation, innovation, and research.  
 
 -  I’m currently working on **Generative AI & AI-driven engineering projects**  
 -  Learning **Applied AI, Deep Learning & Prompt Engineering**  
